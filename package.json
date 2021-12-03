@@ -1,0 +1,21 @@
+{
+  "name": "advent-of-code",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "dependencies": {
+    "rxjs": "^7.4.0"
+  },
+  "devDependencies": {
+    "@types/node": "^16.11.11",
+    "ts-node": "^10.4.0",
+    "typescript": "^4.5.2"
+  },
+  "scripts": {
+    "day1": "node --loader ts-node/esm day-01/index.ts",
+    "day2": "node --loader ts-node/esm day-02/index.ts"
+  },
+  "author": "",
+  "license": "ISC"
+}
