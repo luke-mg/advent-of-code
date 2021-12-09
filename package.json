@@ -18,7 +18,8 @@
     "d2p1": "node --loader ts-node/esm day-02/part-1.ts",
     "d2p2": "node --loader ts-node/esm day-02/part-2.ts",
     "d3p1": "node --loader ts-node/esm day-03/part-1.ts",
-    "d3p2": "node --loader ts-node/esm day-03/part-2.ts"
+    "d3p2": "node --loader ts-node/esm day-03/part-2.ts",
+    "d9p1": "node --loader ts-node/esm day-09/part-1.ts"
   },
   "author": "",
   "license": "ISC"
